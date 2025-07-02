@@ -1,0 +1,33 @@
+/*#mybox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#myBtn{
+    font-size: 3rem;
+    align-items: center;
+    text-align: center;
+}*/
+
+body{
+    margin: 0;
+}
+
+#mybox{
+    background-color: lightgreen;
+    margin: 0;
+    width: 250px;
+    height: 250px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    justify-content: center;
+    display: flex; 
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
